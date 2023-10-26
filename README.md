@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=CONCLUIDO&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=EM_ANDAMENTO&color=blue&style=for-the-badge"/>
 </p>
 
 O [Tera Open](https://eventos.somostera.com/portas-abertas?utm_source=instagram&utm_medium=bio&utm_id=tpa), que aconteceu em outubro de 2023, foi um evento em que a Tera abriu as portas da plataforma de cursos para experimentar a experiência.
