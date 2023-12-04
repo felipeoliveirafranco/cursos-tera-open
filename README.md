@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/felipeoliveirafranco/cursos-tera-open/blob/main/image01.png" width=75%/>
+<img src="https://github.com/felipeoliveirafranco/cursos-tera-open/blob/main/image01.png" width=100%/>
 </p>
 
 <p align="center">
